@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I'm Rayhan Islam — a Web Developer who enjoys building modern, responsive, and user-friendly web applications.
+<br>👋 Hi, I'm Rayhan Islam — a Full Stack Developer passionate about building modern, responsive, and user-friendly web applications.
 
 💻 Frontend: HTML, CSS, JavaScript, React.js  
 ⚙️ Backend: Laravel, PHP, MySQL  
