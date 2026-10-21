@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 👋 Hi, I'm Rayhan Islam — a Full Stack Developer working with React.js, Laravel, and MySQL to build modern web applications.
+<br>👋👋 Hi, I'm Rayhan Islam — a Full Stack Developer working with React.js, Laravel, and MySQL to build modern web applications.
 
 💻 Frontend: HTML, CSS, JavaScript, React.js  
 ⚙️ Backend: Laravel, PHP, MySQL  
