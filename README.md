@@ -1,5 +1,11 @@
 # 💫 About Me:
-<br>👋 Hi, I'm Rayhan — a Full Stack Web Developer who loves building modern, responsive, and user-friendly web applications using React.js, Laravel, and MySQL. I also work with Webflow to create modern websites
+<br>👋 Hi, I'm Rayhan Islam — a Web Developer who enjoys building modern, responsive, and user-friendly web applications.
+
+💻 Frontend: HTML, CSS, JavaScript, React.js  
+⚙️ Backend: Laravel, PHP, MySQL  
+🎨 Web Design: Webflow, Figma
+
+🚀 Currently improving my skills in REST API development and modern web technologies.
 
 
 ## 🌐 Socials:
