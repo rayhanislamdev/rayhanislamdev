@@ -5,12 +5,6 @@
 ⚙️ Backend: Laravel, PHP, MySQL  
 🎨 Web Design: Webflow, Figma
 
-🚀 Currently exploring REST API development and building projects to strengthen my skills..
-
-💻 Frontend: HTML, CSS, JavaScript, React.js  
-⚙️ Backend: Laravel, PHP, MySQL  
-🎨 Web Design: Webflow, Figma
-
 🚀 Currently improving my skills in REST API development and modern web technologies.
 
 
